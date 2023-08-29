@@ -44,6 +44,7 @@ A Time Series is a set of observations that are collected after regular interval
 
 # Conclusion :
 According to tha analysis of data this particular dataset we found that "Open", "High", "Low", "Close". As the columns in which trades in increasing manner but in the year 2021 the stocks are goes in decreasing manner.
+
 According to the volume chart for particular this dataset year 2016 to 2017 gives little bit of more profit investments in the stocks.
 
 After 2017 to upcoming year stocks will be fluctuated.
